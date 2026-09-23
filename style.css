@@ -56,7 +56,7 @@ body > header {
 }
 
 body > header h1 {
-    color: #d4af37;
+    color: #377bd4;
     font-size: 28px;
     letter-spacing: 2px;
 }
@@ -80,7 +80,7 @@ body > header nav a {
 }
 
 body > header nav a:hover {
-    color: #d4af37;
+    color: #49d437;
 }
 
 
@@ -99,7 +99,7 @@ main section > header {
 }
 
 main section > header p:first-child {
-    color: #d4af37;
+    color: #d43737;
     font-size: 12px;
     font-weight: bold;
     letter-spacing: 3px;
